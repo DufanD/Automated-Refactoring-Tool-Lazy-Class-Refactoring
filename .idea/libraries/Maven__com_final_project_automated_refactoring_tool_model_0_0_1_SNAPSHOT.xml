@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.final-project.automated-refactoring-tool:model:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/final-project/automated-refactoring-tool/model/0.0.1-SNAPSHOT/model-0.0.1-20190427.125708-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/final-project/automated-refactoring-tool/model/0.0.1-SNAPSHOT/model-0.0.1-20190427.125708-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/final-project/automated-refactoring-tool/model/0.0.1-SNAPSHOT/model-0.0.1-20190427.125708-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
